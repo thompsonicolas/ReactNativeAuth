@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "28169839441",
+    "project_id": "authreactnative-147a2",
+    "storage_bucket": "authreactnative-147a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28169839441:android:330889b6d28b801cb96970",
+        "android_client_info": {
+          "package_name": "com.nthompson.reactnativeauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28169839441-cimbbcldb6b8i0jmtq3lagqaachc79ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEM4vdtI_47Z39Ufs5z0n5HC7kUMV1ZAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28169839441-cimbbcldb6b8i0jmtq3lagqaachc79ce.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28169839441-eurcmv8d0p8oneniig3pcf6hva6gfk40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "AuthReactNativeIos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
